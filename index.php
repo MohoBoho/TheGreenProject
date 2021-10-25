@@ -10,6 +10,7 @@
 
 <body style="background:#DAF7A6; color:tomato;">
   <h1>The Green Project</h1>
-  This is the welcome page!
+  This is the welcome page! <br/>
+  Здравей :)
 </body>
 </html>
